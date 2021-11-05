@@ -1,0 +1,26 @@
+{
+  "name": "cleanblog",
+  "version": "1.0.0",
+  "description": "\"# CleanBlog\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emrahozturk/CleanBlog.git"
+  },
+  "keywords": [
+    "cleanblog",
+    "site"
+  ],
+  "author": "Emrah Öztürk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emrahozturk/CleanBlog/issues"
+  },
+  "homepage": "https://github.com/emrahozturk/CleanBlog#readme",
+  "devDependencies": {
+    "prettier": "2.4.1"
+  }
+}
